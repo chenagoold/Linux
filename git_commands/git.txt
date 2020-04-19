@@ -72,5 +72,7 @@ git rm --cached readme.txt
 Зафиксируем удаление файла file.txt git add file.txt Зафиксируем добавление файла new_dir/file.txt 
 под версионный контроль git add new_dir/file.txt
 
-============================================
+==========================================
+Hello-world
+
 
