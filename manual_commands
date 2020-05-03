@@ -4,4 +4,4 @@
 
 Для установки часового пояса с помощью утилиты timedatectl нужно выполнить команду:
 
-timedatectl set-timezone Europe/Moscow
+1. timedatectl set-timezone Europe/Moscow
